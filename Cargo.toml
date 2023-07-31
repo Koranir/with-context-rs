@@ -1,6 +1,10 @@
 [package]
 name = "with-context"
 version = "0.3.0"
+repository = "https://github.com/Koranir/with-context-rs"
+authors = [
+    "Daniel Yoon <daniel@yoon.com.au>",
+]
 edition = "2021"
 
 [dependencies]
