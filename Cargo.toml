@@ -2,6 +2,8 @@
 name = "with-context"
 version = "0.3.0"
 repository = "https://github.com/Koranir/with-context-rs"
+description = "with-context: Easy singleton initialization & usage for Rust."
+license = "MIT"
 authors = [
     "Daniel Yoon <daniel@yoon.com.au>",
 ]
